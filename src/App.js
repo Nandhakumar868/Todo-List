@@ -1,5 +1,5 @@
 import React from 'react';
-import ColorChange from './components/ColorChange';
+import ColorChange from './components/Interface';
 
 function App() {
   return (
